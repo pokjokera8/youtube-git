@@ -1,0 +1,22 @@
+*   c1066a9 Resuelvo conflicto en index.html
+|\  
+| * 82573da agregando las estaciones
+* | 5115c32 Agregando estaciones, con fecha de inicio
+|/  
+*   18f6303 resolviendo conflicto merge mainb/html en el documen tos index.html
+|\  
+| * 0219160 agregando index.js al index.html
+* | 3cbbf0f agregando style.css al index.html
+* |   7771719 Merge branch 'js'
+|\ \  
+| * | 86021d6 creando index.js
+* | | d121ff1 Creando style.css
+| |/  
+|/|   
+* | 3ca466a Creando index.html
+|/  
+* a7143b8 ignorando archivos .exe
+* d150a35 Creando licencia del repositorio
+* 3a71c60 agregando mas contenido al README
+* 44a687f Agregando contenido inicial al README
+* 5a4bbf0 Primer commit 😃

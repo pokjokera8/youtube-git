@@ -1,0 +1,93 @@
+commit c1066a9429e2d12219c79a59163692abca0d1e0a
+Merge: 5115c32 82573da
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 18:47:09 2025 -0500
+
+    Resuelvo conflicto en index.html
+
+commit 5115c3229213a9c61d083c72ffa756d82d17d94b
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 18:13:26 2025 -0500
+
+    Agregando estaciones, con fecha de inicio
+
+commit 82573dace94a9d14211028de13c63752acc244c5
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 18:13:26 2025 -0500
+
+    agregando las estaciones
+
+commit 18f6303c539cc63389fd71e33f0103f9563e9404
+Merge: 3cbbf0f 0219160
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 18:03:44 2025 -0500
+
+    resolviendo conflicto merge mainb/html en el documen
+    tos index.html
+
+commit 021916040300b4261578d32738b7577e720c9c6e
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 17:57:09 2025 -0500
+
+    agregando index.js al index.html
+
+commit 3cbbf0ff1ba8ed30470f672bef349b6c367a777f
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 17:54:46 2025 -0500
+
+    agregando style.css al index.html
+
+commit 777171947a5f6f799686cfca50d1b8272a370920
+Merge: d121ff1 86021d6
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 17:43:54 2025 -0500
+
+    Merge branch 'js'
+
+commit 86021d63c13a71bce18734c4315a35cb268adb21
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 10:43:23 2025 -0500
+
+    creando index.js
+
+commit d121ff13192ab5e250d58f640151106781c01e5f
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 10:36:18 2025 -0500
+
+    Creando style.css
+
+commit 3ca466a1eead275114d27aa63208f4c86956665f
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Mon Dec 15 10:32:23 2025 -0500
+
+    Creando index.html
+
+commit a7143b8b48b2753e622f743fbff7d476acb701f0
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Wed Dec 10 21:12:02 2025 -0500
+
+    ignorando archivos .exe
+
+commit d150a35184aced8e26e9883348dd89f35bb3873b
+Author: pokjokera8 <pokjokera8@gmail.com>
+Date:   Wed Dec 10 16:17:42 2025 -0500
+
+    Creando licencia del repositorio
+
+commit 3a71c60267a3505a5bad28f282cc3939278fdfe0
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Wed Dec 10 16:05:34 2025 -0500
+
+    agregando mas contenido al README
+
+commit 44a687ffe676c583adaa8702926fd51fb7412d0b
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Wed Dec 10 15:34:42 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit 5a4bbf06a48addf62e156e84c67e985879dfa399
+Author: Felipe Marin <pokjokera8@gmail.com>
+Date:   Wed Dec 10 15:29:36 2025 -0500
+
+    Primer commit 😃
